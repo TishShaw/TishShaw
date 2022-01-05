@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my software engineering immersive project!
+- 🔭 I’m currently working on my software engineering immersive project
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with Docker
