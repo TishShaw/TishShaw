@@ -18,9 +18,9 @@ I'm a full-stack web developer passionate about building websites and creating s
 
 ## Github Stats: 📈
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TishtanyaShaw&layout=compact)](https://github.com/TishtanyaShaw/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TishShaw&layout=compact)](https://github.com/TishtanyaShaw/github-readme-stats)
 
 
-[![yourUserName's GitHub stats](https://github-readme-stats.vercel.app/api?username=TishtanyaShaw)](https://github.com/TishtanyaShaw/github-readme-stats)
+[![yourUserName's GitHub stats](https://github-readme-stats.vercel.app/api?username=TishShaw)](https://github.com/TishShaw/github-readme-stats)
 
 ## Connect With Me: 
