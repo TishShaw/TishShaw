@@ -4,11 +4,6 @@
 
 I'm a full-stack web developer passionate about building websites and creating something new! I'm currently working with React to create beautiful full-stack web apps. I love learning new technologies and creating apps that can help others.
 
-- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/tishtanya-shaw/)
-- 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ... I am very happy to be learning how to code!!!
-
-
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
@@ -24,3 +19,5 @@ I'm a full-stack web developer passionate about building websites and creating s
 [![yourUserName's GitHub stats](https://github-readme-stats.vercel.app/api?username=TishShaw)](https://github.com/TishShaw/github-readme-stats)
 
 ## Connect With Me: 
+
+[Linkedin](https://www.linkedin.com/in/tishtanya-shaw/)
