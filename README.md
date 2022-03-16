@@ -1,10 +1,7 @@
-![Hi I'm Tish (1)](https://user-images.githubusercontent.com/92543814/149639283-78eb3c87-c66a-4493-9a7d-ede0f7e1d4c4.png)
 
-## 👋🏾 Hello there, I'm Tish!
+## 👋🏾 Hi, I'm Tish!
 
-I'm a full-stack web developer passionate about building websites and creating something new! I'm currently working with React to create beautiful full-stack web apps. I love learning new technologies and creating apps that can help others.
-
-
+I'm a full-stack web developer passionate about building websites and creating user-friendly applications! I'm currently working with React to create beautiful full-stack web apps.
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 
