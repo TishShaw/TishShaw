@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.cuinsight.com/wp-content/uploads/2018/05/bigstock-Modern-Design-Digital-Wallpape-234904279-2.jpg)](tishtanya-shaw.netlify.app)
+<img src='https://www.cuinsight.com/wp-content/uploads/2018/05/bigstock-Modern-Design-Digital-Wallpape-234904279-2.jpg' width='100%' height='300px'>
 <h1 align="center">Hi, I'm Tish 👋</h1>
 <h3 align="center">A passionate frontend developer</h3>
 A frontend developer with a background in customer service and healthcare. Passionate about learning and creating user friendly web applications.
