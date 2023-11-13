@@ -1,4 +1,4 @@
-<h1 align="center">Hi There, I'm Tish!</h1>  
+<h1 align="center">👋🏾 Hi, I'm Tish!</h1>  
 <div align="center"><img  src="https://user-images.githubusercontent.com/93796800/149531581-6375c1d1-4530-4620-98cc-0d1f6f25669b.jpeg"></div>
 <h3 align="center">Full-stack engineer with a passion for problem-solving and a desire to create products that make an impact. </h3>
 
