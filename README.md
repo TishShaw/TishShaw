@@ -2,7 +2,7 @@
 <div align="center"><img  src="https://user-images.githubusercontent.com/93796800/149531581-6375c1d1-4530-4620-98cc-0d1f6f25669b.jpeg"></div>
 <h3 align="center">Full-stack engineer with a passion for problem-solving and a desire to create products that make an impact. </h3>
 
-🌱 I’m currently learning kotlin for mobile app development.
+🌱 I’m currently learning mobile app development.
 
 💬 Ask me about react, javascript, html, css.
 
