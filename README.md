@@ -7,11 +7,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/TishShaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tishtanya-shaw" height="30" width="40" /></a>
+<a href="https://discord.com/users/TishShaw target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tishtanya-shaw" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Skills</h3>
-<img align="center" width="700" src="https://skills.thijs.gg/icons?i=js,html,css,tailwind,react,redux,express,nodejs,django,mongodb,postgres&theme=dark">
-<img align="center" width="390" src="https://skills.thijs.gg/icons?i=postgres,heroku,linux,git,github,figma&theme=dark">
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,tailwind,bootstrap,react,redux,go,express,nodejs,dotnet,django,mongodb,postgres,mysql,docker&perline=10&theme=light)](https://skillicons.dev)
 
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=tishshaw&show_icons=true&theme=transparent">
