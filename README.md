@@ -1,7 +1,5 @@
 <h2>Hi, I'm Tishtanya Shaw 🌺 <h2>  <h3>I'm a full-stack software engineer with a passion for problem-solving and creating products that make an impact. 🌍 </h3>
 
-🌱 Currently, I'm immersing myself into the fascinating realm of web accessibility. Exploring how it transforms websites into inclusive spaces, ensuring that technology is a friend to all. 💻✨
-
 📫 You can reach me here -> Tishtanya.Shaw24@gmail.com
 
 <h3 align="left">Connect with me:</h3>
